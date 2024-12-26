@@ -1,4 +1,3 @@
-import { useEffect, useState } from 'react'
 import heartGif from './assets/heart.gif'
 import './App.css'
 import AgeForm from './components/AgeForm'
