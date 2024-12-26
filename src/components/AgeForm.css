@@ -1,0 +1,20 @@
+.age-form {
+    padding:2em;
+  }
+  
+.age-form-input {
+margin-left: 1em;
+height: 2em;
+background-color: aliceblue;
+border: transparent;
+color: black;
+}
+  
+.age-form-button {
+    margin-left: 1em;
+    size:15em;
+}
+
+.age-form-label {
+    font-weight: 700;
+}

@@ -1,0 +1,23 @@
+.zoneDataTable {
+    width: 40%;
+    margin: 0 auto; /* Center the table horizontally */
+    table-layout: flex; /* Consistent column widths */
+    text-align: center; /* Center-align text in all cells */
+    padding: 0; /* Add spacing inside cells */
+}
+  
+
+.zoneDataTableRow {
+    display: flex;
+    border-bottom: 1px solid;
+}
+
+.zoneDataTableRow th {
+    flex: 1;
+    padding: 1em 0 1em 0;
+    border-top: 1px solid;
+}
+
+.zoneDataTableRow td {
+  flex: 1;
+}
